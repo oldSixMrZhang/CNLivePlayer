@@ -1,0 +1,6 @@
+framework module CNLivePlayer {
+  umbrella header "CNLivePlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
